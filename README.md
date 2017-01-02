@@ -1,4 +1,4 @@
-## Coursera's «HTML, CSS and Javascript Web Development»
+﻿## Coursera's «HTML, CSS and Javascript Web Development»
 
 ### Assignment solutions:
 
@@ -9,4 +9,7 @@ HTML and CSS
 Bootstrap
   
 [Module 4](https://anaraqueltomas.github.io/coursera-hcjwd/module4-solution/)  
+Javascript
+
+[Module 5](https://anaraqueltomas.github.io/coursera-hcjwd/module5-solution/)  
 Javascript
