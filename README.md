@@ -7,3 +7,6 @@ HTML and CSS
   
 [Module 3](https://anaraqueltomas.github.io/coursera-hcjwd/module3-solution/)  
 Bootstrap
+  
+[Module 4](https://anaraqueltomas.github.io/coursera-hcjwd/module4-solution/)  
+Javascript
